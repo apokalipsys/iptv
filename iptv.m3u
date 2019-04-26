@@ -418,10 +418,6 @@ http://18233.live.streamtheworld.com/ACTIVAAAC.aac
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios", Radio Romina (92.5 FM Antofagasta)
 http://198.50.154.235:10246/;
-
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios", Radio ? (? FM ?)
-http://167.114.208.100:9844/;
-
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios", Radio Entretenida FM (92.5 FM Vilcun)
 http://atanua.broadcastchile.cl:7000/;
 
