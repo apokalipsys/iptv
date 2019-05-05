@@ -9,10 +9,12 @@ https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
 https://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://estaticos.tvn.cl/skins/envivo/201709281730/gfx/icon-tvncl.png" group-title="Nacional", TVN
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
+#EXTINF:-1 tvg-logo="http://estaticos.tvn.cl/skins/envivo/201709281730/gfx/icon-tvncl.png" group-title="Nacional", TVN (Alternativa)
+https://tvn-1-live.nedmedia.io/live.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/908334406280077313/lfVOtZWn_400x400.jpg" group-title="Nacional", Mega
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:-1 tvg-logo="http://estaticos.chilevision.cl/chv.libs/img/logo-chv-1.0.png" group-title="Nacional", CHV
-https://mdstrm.com/live-stream-playlist/5c928b7f6d6f41084bdae898.m3u8
+http://mi.chv.cl/playlist/stream.m3u8?s=hd
 #EXTINF:-1 tvg-logo="http://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png" group-title="Nacional", Canal 13
 http://c13-live-1.cdn.nedmedia.io/index.m3u8
 
@@ -66,7 +68,7 @@ http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
 #Ovalle Televisión no web
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-p3LlUC__MhE/Wn9ntTT4umI/AAAAAAAAgxA/ahIA2oru5JgDmruisQROdYlLiVOr6-DygCK8BGAs/s230/2018-02-10.png" group-title="Coquimbo", ThemaTV 
-https://unlimited5-cl.dps.live/thema/thema.smil/playlist.m3u8
+https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVdfJk.png" group-title="Coquimbo", TV2 Choapa
 http://unlimited1-cl.dps.live/tv2choapa/tv2choapa.smil/playlist.m3u8
 
@@ -77,7 +79,7 @@ http://unlimited1-cl.dps.live/tv2choapa/tv2choapa.smil/playlist.m3u8
 #Mata o te Rapa Nui
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-139lFbspmqQ/Wn9i-dwl09I/AAAAAAAAgv8/FNhrpJjzo-YoLJR0GqIvfm4dKEFoahxUACK8BGAs/s227/2018-02-10.png" group-title="Valparaíso", Canal 2 San Antonio 
-http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8
+http://unlimited10-cl.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/OhvNlhb.jpg" group-title="Valparaíso", Girovisual
 http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Z4lnBH9o1Xg/Wn9qH_CN1nI/AAAAAAAAgxo/4OeIVek2OzIIfRaMqxKTs-M-_D9TrgYuACK8BGAs/s230/2018-02-10.png" group-title="Valparaíso", VTV Valle del Aconcagua 
@@ -135,7 +137,7 @@ http://movilstream.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8
 # tvg-logo="https://i.imgur.com/v9rwlBW.png" group-title="O'Higgins", Canal de Noticias Colchagua
 #https://5abb555511e46.streamlock.net/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-C4zJMHbLdzA/Wn9n8gAYChI/AAAAAAAAgxE/cvJ_6aMPvksVBHJC7o01IM9-LZqIfKNBwCK8BGAs/s250/2018-02-10.png" group-title="O'Higgins", TV Centro 
-http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8
+https://unlimited6-cl.dps.live/tvcentro/tvcentro.smil/tvcentro/livestream1/chunks.m3u8
 
 #MA
 
