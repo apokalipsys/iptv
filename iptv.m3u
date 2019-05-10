@@ -120,6 +120,8 @@ http://unlimited6-cl.dps.live/nuevotiempotv/nuevotiempotv.smil/playlist.m3u8
 http://cdnapi.kaltura.com/p/2359831/sp/0/playManifest/entryId/1_3jx9rpfo/format/applehttp/protocol/http/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1540214187.jpg" group-title="Metropolitana", Tv Máxima 
 http://evo.eltelon.com:1935/live/maxima-fm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6XJwnD4.jpg" group-title="Metropolitana", Bío-Bío Chile TV
+https://unlimited2-cl.dps.live/bbtv/bbtv.smil/playlist.m3u8
 
 #OH
 
