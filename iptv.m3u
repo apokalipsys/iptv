@@ -45,7 +45,7 @@ http://redirector.dps.live/atv/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-G9_SJK0nOL4/Wn9iXZ9h9yI/AAAAAAAAgvw/lXvnNA090fcnrd8iY1-kP6etLXyqkSVPwCK8BGAs/s225/2018-02-10.png" group-title="Antofagasta", AM Canal 
 https://v3.tustreaming.cl/amtv/live1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528579859.png" group-title="Antofagasta" , Chilevisual
-http://v3.tustreaming.cl/chilevisual/live1/playlist.m3u8
+https://live.elaborar.cl/hls/chilevisual1.m3u8
 
 #AT
 
@@ -310,7 +310,7 @@ http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521688260.jpg" group-title="Chile - RadioTV" , Genial Tv
 http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KR3SkE.png" group-title="Chile - RadioTV" , INTERRADIOTV 
-https://v3.ciclano.io:1443/jose-590/jose-590/playlist.m3u8
+https://59f2354c05961.streamlock.net:1443/interradio/_definst_/interradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YtFPbPW.png" group-title="Chile - RadioTV", Tv Pop
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8?xtreamiptv.m3u8
 
@@ -329,7 +329,7 @@ http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
 http://hd.chileservidores.cl:8080/tvsalud/tvsalud/playlist.m3u8
 #TV Salud 2 youtube
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1556110783.png" group-title="Chile - Miscelaneo", Retro PlusTv
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15220774751.png" group-title="Chile - Miscelaneo", Tendencias TV
 https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LpdJQQG.png" group-title="Chile - Miscelaneo", UOCT Santiago
@@ -443,7 +443,7 @@ http://18423.live.streamtheworld.com/ROCK_AND_POPAAC.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/n2VfyaS.png" group-title="Radios", Radio Genesis (94.1 FM Andacollo)
 http://stream5.eltelon.com/genesis-andacollo.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/H5ciNat.png" group-title="Radios", Radio Rinconada (94.3 FM Mejillones)
-http://server4.radiostreaming.cl:8062/;
+http://192.99.18.164:9708/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/olkpXyo.jpg" group-title="Radios", Radio Almeyda (94.3 FM Diego de Almagro)
 http://192.99.18.164:9974/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/dsqxnso.png" group-title="Radios", Radio La Discusion (94.7 FM Chillán)
