@@ -456,7 +456,9 @@ http://www.magistralfm.cl:9110/galvarino
 http://18423.live.streamtheworld.com/ROCK_AND_POPAAC.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/n2VfyaS.png" group-title="Radios", Radio Genesis (94.1 FM Andacollo)
 http://stream5.eltelon.com/genesis-andacollo.aac
-#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/eFjgqHm.jpg" group-title="Radios", Soberanía Radio(94.1 FM Punta Arenas)
+#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/VVM7kRP.png" group-title="Radios", Radio El Carbón (94.1 FM Lota)
+https://unlimited11-cl.dps.live/elcarbon/aac/icecast.audio
+#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/eFjgqHm.jpg" group-title="Radios", Soberanía Radio (94.1 FM Punta Arenas)
 http://stream5.eltelon.com/radio-soberania.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/H5ciNat.png" group-title="Radios", Radio Rinconada (94.3 FM Mejillones)
 http://192.99.18.164:9708/;
@@ -564,6 +566,8 @@ http://audio.crearchile.info:9330/;
 #http://s6.jcwebnew.com:7555/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/wxBWzKO.png" group-title="Radios", Paula FM (100.5 FM)
 http://unlimited1-us.dps.live/radiopaula/go/audio/now/livestream1.m3u8
+#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/xDzN5BI.jpg" group-title="Radios", Aguamarina (100.5 FM Tomé)
+http://sonando.us.digitalproserver.com/aguamarina.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/qAK7Ief.jpg" group-title="Radios", El Conquistador (100.7 FM Temuco)
 http://s02.midns.net:8000/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/j4Y6QyG.png" group-title="Radios", Radio Mejillones FM (100.9 FM)
