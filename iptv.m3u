@@ -342,7 +342,7 @@ http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
 
 #Radios
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/SUh388e.jpg" group-title="Santiago;FM", Imagina (88.1 FM)
-http://14073.live.streamtheworld.com/IMAGINAAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINAAAC_SC
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/BvKYJQe.png" group-title="Antofagasta;FM", Radio Canal 95 (88.1 FM Antofagasta)
 http://sonando.us.digitalproserver.com/canal95_aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/FBUWYiH.png" group-title="Copiapó;FM", Radio Nostalgica (88.1 FM Copiapo)
@@ -354,17 +354,17 @@ https://redirector.dps.live/nostalgica/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/HuV0NVG.png" group-title="Temuco;FM", Radio Bio Bio Temuco (88.1 FM Temuco)
 http://unlimited11-cl.dps.live/biobiotemuco/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/OVl6fRX.jpg" group-title="Santiago;FM", Concierto (88.5 FM)
-http://19793.live.streamtheworld.com/CONCIERTOAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/SxWx6TZ.png" group-title="Arica;FM", Radio Neura (88.5 FM Arica)
-http://78.129.222.62:25555/;
+http://80.84.57.76:22990/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/BheqVbm.jpg" group-title="Vallenar;FM", Radio Amiga (88.5 FM Vallenar)
-http://184.154.173.147:8021/stream
+http://184.154.173.147:8003/stream/1/
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/zS8ur0f.png" group-title="Punta Arenas;FM", Radio Presidente Ibañez (88.5 FM Punta Arenas)
 http://audio.servercl.com:8000/stream/1/
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/8oc98kx.jpg" group-title="Loncoche;AM;FM", Radio Loncoche (88.7 FM 1410 AM Loncoche)
 http://audio2.tustreaming.cl:8074/stream/1/
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/peHFrrC.png" group-title="Santiago;FM", Futuro (88.9 FM)
-http://19793.live.streamtheworld.com/FUTUROAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/SVJPjLy.jpg" group-title="Ovalle;FM", Radio Nuevo Mundo (88.9 FM Ovalle)
 http://190.82.105.90:8012/stream/1/
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/HuV0NVG.png" group-title="Valdivia;FM", Radio Bio Bio Valdivia (88.9 FM Valdivia)
@@ -376,21 +376,23 @@ http://cast.radioservicios.cl:8026/fmmas
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/rZa6doP.jpg" group-title="Antofagasta;FM", FM Okey (89.3 FM Antofagasta)
 http://streaming.fmokey.cl:8000/FmOkAT.mp3
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/qUBhvPc.png" group-title="Temuco;FM", ufro radio (FM 89.3 Temuco)
-http://edge-np.cdn.mdstrm.com/59b2a5f59e1aa08b110000a8.mp3
+https://mdstrm.com/audio/5e7d00bf57988307b310abff/live.m3u8
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/Vxf4g7M.png" group-title="Santiago;FM", Duna (89.7 FM)
 http://unlimited11-cl.dps.live/duna/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/xcOtapQ.png" group-title="Chillán;FM", Radio Ñuble (89.7 FM Chillán)
 http://streaming.comunicacioneschile.net:9358/;
+#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/5GIrkPF.png" group-title="Temuco;FM", Radio Mirador (89.7 FM Lautaro)
+https://stream.edelweiss.fm/radio/8030/radio.mp3
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/JuFuvR1.png" group-title="Viña del Mar;FM", Radio Carnaval (89.9 FM Viña del Mar)
 http://sonando.us.digitalproserver.com/carnaval_vinadelmar.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/zmIAPXv.jpg" group-title="Puerto Cisnes;FM", Radio Revelación (89.9 FM Puerto Cisnes)
-http://stream5.eltelon.com/archi-revelacion.aac
+http://archi-us.digitalproserver.com/revelacion-puerto-cisnes.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/PYkeYsj.jpg" group-title="Illapel;FM", Radio Juan Pablo II (90.3 FM Illapel)
 http://stream5.eltelon.com/juan-pablo-ii.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/uudoKgZ.png" group-title="Santiago;FM", Pudahuel (90.5 FM)
-http://17953.live.streamtheworld.com/PUDAHUELAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL_SC
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/UkD5p4E.png" group-title="Calama;FM", Radio Alegria del Transporte (90.7 FM Calama)
-http://s6.medionline.cl:9364/;
+http://157.245.89.117:8028/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/MsdkUlf.jpg" group-title="Cañete;FM", Radio Caramelo Arauco (90.7 FM Cañete)
 http://sonando.us.digitalproserver.com/caramelo_arauco.mp3
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/QLHWN1Q.png" group-title="Rancagua;FM", Radio Fiessta (90.9 FM Rancagua)
@@ -398,7 +400,7 @@ http://5.9.65.9:8174/stream/1/
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/QqFdEDu.jpg" group-title="Copiapó;FM", Radio Maray (90.9 FM Copiapo)
 http://184.154.173.147:8000/;stream.mp3
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/5GIrkPF.png" group-title="Temuco;FM", Radio Mirador (90.9 FM Temuco)
-http://demo.dyndns.biz:8016/;
+https://stream.edelweiss.fm/radio/8040/radio.mp3
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/C1A9N6l.png" group-title="Coyhaique;FM", Radio Paraíso (90.9 FM Coyhaique)
 http://190.3.169.87:9802/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/Y7qd8Dq.png" group-title="Concepción;FM", Radio Punto 7 (90.9 FM Concepción)
@@ -406,49 +408,47 @@ https://unlimited4-us.dps.live/p7concepcion/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/to57JxR.png" group-title="Arica;Iquique;Calama;Antofagasta;Vicuña;La Serena;Coquimbo;Pichidangui;Los Andes;San Felipe;Valparaíso;Viña del Mar;Curicó;Talca;San Javier;Concepción;Osorno;Puerto Varas - Puerto Montt;Castro;Punta Arenas;FM", Digital FM (FM)
 https://unlimited3-cl.dps.live/digitalfm/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/VvQYT8r.png" group-title="Punta Arenas;FM", Radio Corporación (91.1 FM Punta Arenas)
-http://104.131.243.43:8348/;stream.mp3
+https://sonicpanel.mediostream.cl/8114/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/839K5RR.jpg" group-title="Santiago;FM", El Conquistador (91.3 FM)
-http://195.154.167.62:9314/;
+https://stream10.usastreams.com:10998/stream/1/
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/2F8X9BC.jpg" group-title="El Salado;FM", Radio Ollantay (91.7 FM El Salado)
 http://192.99.18.164:9748/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/5CqSLQr.png" group-title="Santiago;FM", ADN Radio (91.7 FM)
-http://19173.live.streamtheworld.com/ADNAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/ADN_SC
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/BMOueL2.jpg" group-title="San Felipe;FM", Radio Aconcagua (91.7 FM San Felipe)
 http://atanua.broadcastchile.cl:4080/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/6SrAdNF.jpg" group-title="Gorbea;FM", Centro FM (91.7 FM Gorbea)
-http://s00.midns.net:8040/;
+https://s01.azuracast.cl/radio/8210/fmcentro
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/ZuRXrzW.jpg" group-title="Santiago;FM", Agricultura (92.1 FM)
 http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/fwNGJ6R.jpg" group-title="Los Ángeles;FM", Radio Sur (92.1 FM Los Angeles)
 http://ww3.radiosur.cl:5074/rsur
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/Jbc9KX8.jpg" group-title="Santiago;FM", Radioactiva (92.5 FM)
-http://18233.live.streamtheworld.com/ACTIVAAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVA_SC
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/oegyjA7.png" group-title="Antofagasta;FM", Radio Romina (92.5 FM Antofagasta)
 http://158.69.116.4:8044/stream/1/
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/Oof1Axe.jpg" group-title="Vilcún;FM", Radio Entretenida FM (92.5 FM Vilcún)
-http://167.114.208.100:9844/;
+http://sonic.portalfoxmix.cl:9844/stream/1/
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/NwxqyRt.jpg" group-title="Copiapó;FM", Radio Gennesis (92.7 FM Copiapó)
 http://atanua.broadcastchile.cl:7000/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/C5d1nJA.png" group-title="Santiago;FM", La Clave (92.9 FM)
 http://tunein.digitalproserver.com/laclavebb.aac
-#:-1, radio="true" tvg-logo="https://i.imgur.com/3DE9b22.jpg" group-title="Valdivia;FM", Radio Exquisita (93.1 FM Valdivia)
-#http://stream5.eltelon.com/exquisita.aac
+#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/3DE9b22.jpg" group-title="Valdivia;FM", Radio Exquisita (93.1 FM Valdivia)
+http://stream5.eltelon.com/exquisita.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/Hf93jmb.jpg" group-title="Santiago;FM", Cooperativa (93.3 FM)
 http://unlimited3-cl.dps.live/cooperativafm/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/fGsBfdr.jpg" group-title="Fresia;FM", Nuevo Amanecer (93.3 FM Fresia)
 http://server1.oklanet.cl:8006/stream
-#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/MsdkUlf.jpg" group-title="Los Ángeles;FM", Radio Caramelo (93.5 FM Los Angeles)
-http://sonando.us.digitalproserver.com/caramelo_losangeles.mp3
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/3RAg7dk.jpg" group-title="Santiago;FM", Universo (93.7 FM)
-http://unlimited3-cl.dps.live/universo/mp3/icecast.audio
+https://redirector.dps.live/universo/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/lv8EtgT.png" group-title="Yumbel;FM", Radio Centinela (93.9 FM Yumbel)
 http://s3.medionline.cl:9964
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/nYiGV6M.png" group-title="Galvarino;FM", Radio Magistral (93.9 FM Galvarino)
 http://www.magistralfm.cl:9110/galvarino
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/4CGIlyX.jpg" group-title="Santiago;FM", Rock and Pop (94.1 FM)
-http://18423.live.streamtheworld.com/ROCK_AND_POPAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP_SC
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/n2VfyaS.png" group-title="Andacollo;FM", Radio Genesis (94.1 FM Andacollo)
-archi-us.digitalproserver.com/genesis-fm.aac
+http://archi-us.digitalproserver.com/genesis-fm.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/VVM7kRP.png" group-title="Lota;FM", Radio El Carbón (94.1 FM Lota)
 https://unlimited11-cl.dps.live/elcarbon/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/eFjgqHm.jpg" group-title="Punta Arenas;FM", Soberanía Radio (94.1 FM Punta Arenas)
@@ -461,15 +461,14 @@ http://192.99.18.164:9974/stream
 http://stream5.eltelon.com/radio-la-discusion.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/W600WSh.png" group-title="Pitrufquén;FM", Radio Universal (94.7 FM Pitrufquén)
 http://s01.azuracast.cl:8010/universal
-http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/jYBbPA1.png" group-title="Buin;FM", Amanda (94.9 FM Buin)
-http://192.99.18.164:9864/;stream.nsv
+http://cloudstream2030.conectarhosting.com:8330/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/HuV0NVG.png" group-title="Puerto Montt;FM", Radio Bio Bio Puerto Montt (94.9 FM Puerto Montt)
 https://unlimited3-cl.dps.live/biobiopuertomontt/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/3IUg5kw.png" group-title="San Felipe;FM", FM de Los Recuerdos (95.1 FM San Felipe)
 http://sonando.us.digitalproserver.com/fmdelosrecuerdos.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/wXX9QrF.jpg" group-title="Temuco;FM", Radio Edelweiss (95.1 FM Temuco)
-http://80.83.124.115:8000/edelweiss
+https://stream.edelweiss.fm/radio/8000/radio.mp3
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/QSywYrl.png" group-title="Concepción;FM", Radio UdeC (95.1 FM Concepción)
 https://redirector.dps.live/udec/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/NcSwxeB.png" group-title="Santiago;FM", Radio Candela FM (95.3 FM)
@@ -477,17 +476,17 @@ http://unlimited11-cl.dps.live/candela/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/9fmQRnp.png" group-title="Coyhaique;FM", Radio Coyhaique (95.3 FM Coyhaique)
 http://stream5.eltelon.com/radio-coyhaique.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/qwnQLI6.jpg" group-title="San Ignacio;FM", Radio Atractiva (95.3 FM San Ignacio)
-http://5.9.65.9:8315/;stream.nsv
-#:-1, radio="true" tvg-logo="https://i.imgur.com/3GqFCCL.jpg" group-title="Capitán Pastene;FM", Radio Pastenina (95.7 FM Capitán Pastene)
-#http://stream5.eltelon.com/pastenina-fm.aac
+https://centova.neonetwork.cl:9315/atractiva
+#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/3GqFCCL.jpg" group-title="Capitán Pastene;FM", Radio Pastenina (95.7 FM Capitán Pastene)
+http://stream5.eltelon.com/pastenina-fm.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/S5oii0m.png" group-title="Santiago;FM", FM Tiempo (95.9 FM)
 http://unlimited11-cl.dps.live/fmtiempo/mp3/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/O8CGhPI.jpg" group-title="Arica;FM", Radio Universidad de Tarapacá (95.9 FM Arica)
 http://stream5.eltelon.com:8000/universidad-de-tarapaca.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/X1JhAf5.jpg" group-title="Coyhaique;FM", Estilo (95.9 FM Coyhaique)
 http://audio2.tustreaming.cl:8058/stream
-#:-1, radio="true" tvg-logo="https://i.imgur.com/SYZEgN8.png" group-title="Temuco;FM", Radio Araucana (95.9 FM Temuco)
-#http://s6.medionline.cl:9180/;
+#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/SYZEgN8.png" group-title="Temuco;FM", Radio Araucana (95.9 FM Temuco)
+http://157.245.89.117:8064/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/ytKUjKJ.png" group-title="Curacautín;FM", Radio Genesis (96.5 FM Curacautin)
 http://stream5.eltelon.com/genesis.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/ETshT7q.jpg" group-title="Antofagasta;FM", Radio Carnaval Antofagasta (96.5 FM)
@@ -495,7 +494,7 @@ http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/7Xo3AMf.png" group-title="Calama;FM", Loactual (96.7 FM Calama)
 http://rs.comtic.net:8000/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/HuV0NVG.png" group-title="Los Ángeles;FM", Radio Bio Bio Los Angeles (96.7 FM Los Angeles)
-http://ice.dallas.digitalproserver.com/biola
+https://unlimited3-cl.dps.live/biobiolosangeles/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/HuV0NVG.png" group-title="Valparaíso;FM", Radio Bio Bio Valparaiso (96.7 FM Valparaiso)
 http://unlimited11-cl.dps.live/biobiovalparaiso/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/BwoaqmC.png" group-title="La Serena;FM", Radio San Bartolomé (96.7 FM La Serena)
@@ -509,7 +508,7 @@ http://online.radiosol.cl:8000/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/em8FH2A.png" group-title="Villarrica;Pucón;FM", Radio Picarona (97.7 FM Villarrica)
 https://sonic.portalfoxmix.cl:7046/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/VASyy9W.jpg" group-title="Chile Chico;FM", Radio Sol Austral (97.7 FM Chile Chico)
-http://184.154.173.147:8019/;
+https://audio4.tustreaming.cl/7040/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/ubAmyl5.jpg" group-title="Coyhaique;FM", Radio Ventisqueros (97.7 FM Coyhaique)
 https://archi-us.digitalproserver.com/ventisqueros-coyhaique.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/Y7qd8Dq.png" group-title="Valdivia;FM", Radio Punto 7 (97.9 FM Valdivia)
@@ -521,25 +520,25 @@ http://unlimited11-cl.dps.live/biobioconcepcion/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/KLRgZ1w.jpg" group-title="Taltal;FM", Definición (98.3 FM Taltal)
 http://185.76.77.113:9366/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/Et0VpX5.jpg" group-title="Santiago;FM", FM Dos (98.5 FM)
-http://19223.live.streamtheworld.com/FMDOS_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOSAAC_SC
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/W0OxJ4j.png" group-title="Temuco;FM", Positiva (98.5 FM Temuco)
 http://mimix.mercurio.cl:8000/temuco2
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/r4n85eV.png" group-title="Pucón;FM", Nativa FM (98.5 FM Pucón)
 http://audio.crearchile.info:9314/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/gXpGxb1.png" group-title="San Vicente de Tagua Tagua;FM", Ritmo FM (98.7 FM San Vicente de Tagua Tagua)
-http://167.114.208.100:9976/stream?icy=http
+https://sonic.portalfoxmix.cl/9976/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/rnIllnH.jpg" group-title="Concepción;FM", El Conquistador (98.9 FM Concepción)
 http://audio5.tustreaming.cl:8060/concepcion
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/9Ga46EG.png" group-title="Carahue;FM", Radio Las Colinas (98.9 FM Carahue)
 http://stream5.eltelon.com/las-colinas.aac
-#:-1, radio="true" tvg-logo="https://i.imgur.com/IrcTIRl.jpg" group-title="Valdivia;FM", Regional FM (98.9 FM Valdivia)
-#http://184.107.165.66:9954/;
+#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/IrcTIRl.jpg" group-title="Valdivia;FM", Regional FM (98.9 FM Valdivia)
+https://audio.divalstream.com:7000/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/u5SFPny.jpg" group-title="Huasco;FM", Radio Marcela (99.1 FM Huasco)
 http://archi-us.digitalproserver.com/marcelafm.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/f4VGAyz.jpg" group-title="Santiago;FM", Radio Carolina (99.3 FM)
 http://unlimited3-cl.dps.live/carolinafm/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/RG3Vf6B.png" group-title="Coyhaique;FM", Arcoiris (99.3 FM Coyhaique)
-http://s6.jcwebnew.com:8120/stream
+http://5.9.65.9:8195/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/W0OxJ4j.png" group-title="Valdivia;FM", Radio Positiva (FM 99.5 Valdivia)
 http://mimix.mercurio.cl:8000/valdivia2
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/HuV0NVG.png" group-title="Santiago;FM", Radio Bio Bio Santiago (99.7 FM)
@@ -549,29 +548,29 @@ http://185.105.4.100/proxy/radioua?mp=/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/yI5cYSx.jpg" group-title="Santiago;FM", Infinita (100.1 FM)
 http://unlimited1-us.dps.live/infinita/go/audio/now/livestream1.m3u8
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/xIsoKGd.png" group-title="Arica;FM", Radio Andina (100.1 FM Arica)
-http://46.4.33.73:5000/stream/1/
+http://92.222.122.116:8124/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/Y7qd8Dq.png" group-title="Valparaíso;FM", Punto 7 (100.1 FM Valparaíso)
 http://unlimited11-cl.dps.live/p7valparaiso/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/Erm8OUc.jpg" group-title="Punta Arenas;FM", Radio Antártica (100.3 FM Punta Arenas)
 http://audio.crearchile.info:9330/;
-#:-1, radio="true" tvg-logo="https://i.imgur.com/vteIpp8.jpg" group-title="Coyhaique;FM", Radio Genial (100.5 FM Coyhaique)
-#http://s6.jcwebnew.com:7555/stream
+#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/vteIpp8.jpg" group-title="Coyhaique;FM", Radio Genial (100.5 FM Coyhaique)
+http://s6.jcwebnew.com:7555/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/wxBWzKO.png" group-title="Santiago;FM", Pauta FM (100.5 FM)
 https://i.imgur.com/gPpy25T.png
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/xDzN5BI.jpg" group-title="Tomé;FM", Aguamarina (100.5 FM Tomé)
 http://sonando.us.digitalproserver.com/aguamarina.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/qAK7Ief.jpg" group-title="Temuco;FM", El Conquistador (100.7 FM Temuco)
-http://s02.midns.net:8000/;
+https://securestreams.eu:1224/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/jjGMKdi.png" group-title="Santiago;FM", Play FM (100.9 FM)
 https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/live.m3u8
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/j4Y6QyG.png" group-title="Mejillones;FM", Radio Mejillones FM (100.9 FM)
-http://s6.medionline.cl:8006/;
+https://sonicpanel.mediostream.cl:7044/stream/1/
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/HjyPMxR.png" group-title="Puyehue;FM", Radio Acogida (100.9 FM Puyehue)
 http://5.9.65.9:8067/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/rz44EST.png" group-title="Santiago;FM", Radio Corazon (101.3 FM)
-http://14003.live.streamtheworld.com/CORAZONAAC.aac
-#:-1, radio="true" tvg-logo="https://i.imgur.com/cg2FbKY.jpg" group-title="San Antonio;FM", Chilena FM (101.3 FM San Antonio)
-#http://sonando.us.digitalproserver.com/chilenafm.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/CORAZON_SC
+#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/cg2FbKY.jpg" group-title="San Antonio;FM", Chilena FM (101.3 FM San Antonio)
+http://sonando.us.digitalproserver.com/chilenafm.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/dGxwwsG.jpg" group-title="Temuco;FM", Radio Esperanza FM (101.3 FM Temuco)
 http://audio2.tustreaming.cl:8048/stream/1/
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/HjyPMxR.png" group-title="Los Muermos;FM", Radio Acogida (101.3 FM Los Muermos)
@@ -579,15 +578,15 @@ http://5.9.65.9:8027/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/SdJvhbI.png" group-title="Panguipulli;FM", Acústica FM (101.5 FM Panguipulli)
 http://stream5.eltelon.com/acustica-fm.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/6NJOV24.jpg" group-title="Santiago;FM", Los 40 (101.7 FM)
-http://18733.live.streamtheworld.com/LOS40_CHILEAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILE_SC
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/Y7qd8Dq.png" group-title="Los Ángeles;FM", Radio Punto 7 (101.7 FM Los Ángeles)
 http://unlimited11-cl.dps.live/p7losangeles/mp3/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/Y7qd8Dq.png" group-title="Temuco;FM", Radio Punto 7 (101.7 FM Temuco)
 http://unlimited3-cl.dps.live/p7temuco/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/3ggQLdH.png" group-title="Valdivia;FM", Genoveva FM (101.7 FM Valdivia)
 http://stream5.eltelon.com/genoveva.aac
-#:-1, radio="true" tvg-logo="https://i.imgur.com/RaIYnUg.png" group-title="San Antonio;FM", Sabor (101.9 FM San Antonio)
-#http://sonando.us.digitalproserver.com/saborfm.aac
+#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/RaIYnUg.png" group-title="San Antonio;FM", Sabor (101.9 FM San Antonio)
+http://sonando.us.digitalproserver.com/saborfm.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/Y7qd8Dq.png" group-title="Puerto Montt;FM", Radio Punto 7 (101.9 FM Puerto Montt)
 http://unlimited11-cl.dps.live/p7puertomontt/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/k7hkLrN.jpg" group-title="Santiago;FM", Oasis (102.1 FM)
@@ -607,9 +606,11 @@ http://stream5.eltelon.com/archi-yungay.aac?type=.flv
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/ps09RMN.png" group-title="Puerto Aysén;FM", Radio Las Nieves (102.9 FM Puerto Aysen)
 http://audio2.tustreaming.cl:8044/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/ZhmcWaM.jpg" group-title="Talagante;FM", Manantial FM (102.9 FM Talagante)
-http://s6.medionline.cl:7602/;?1556398908048
+https://sonic-cl.streaming-chile.com/8068/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/rZa6doP.jpg" group-title="Copiapó;FM", Radio Okey (103.1 FM Copiapo)
 http://streaming.fmokey.cl:8000/FmOkCP.mp3
+#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/smrYhaO.jpg" group-title="Lanco;FM", Ritmo FM (103.1 FM Lanco)
+http://168.195.128.187:9312/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/a6v9HsH.jpg" group-title="Antofagasta;FM", Radio Centro FM (103.3 FM Antofagasta)
 http://stream5.eltelon.com/centro.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/EwubKy5.png" group-title="Santiago;FM", Tele13 Radio (103.3 FM)
@@ -623,7 +624,7 @@ http://192.99.18.164:9598/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/bEA7F8s.jpg" group-title="Santiago;FM", Romántica (104.1 FM)
 http://unlimited11-cl.dps.live/romantica/mp3/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/2mpRomf.jpg" group-title="Lanco;FM", Radio Pilmaiquén (104.3 FM Lanco)
-http://198.15.77.50:9540/;
+https://streaming.chiloestreaming.com:10989/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/fDpx7CC.jpg" group-title="Iquique;FM", Radio Caribe (104.9 FM Iquique)
 http://158.69.116.4:8060/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/nQSZrwn.png" group-title="Pucón;FM", Radio 1049 (104.9 FM Pucón)
@@ -633,7 +634,7 @@ https://unlimited3-cl.dps.live/disney/mp364k/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/5TkJvTV.png" group-title="Victoria;FM", Radio Copihue (105.1 FM Victoria)
 http://stream5.eltelon.com:8000/copihue.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/9cNMblx.png" group-title="Santiago;FM", Sonar (105.3 FM)
-http://mp3.sonarfm.cl/;
+https://mdstrm.com/audio/5c915724519bce27671c4d15/icecast.audio?property=radiobox
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/l3q93Vq.jpg" group-title="Valdivia;FM", Tornagaleones (105.3 FM Valdivia)
 http://tornagaleones.ddns.net:9000/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/Y7qd8Dq.png" group-title="Osorno;FM", Radio Punto 7 (105.5 FM Osorno)
@@ -641,7 +642,7 @@ http://unlimited11-cl.dps.live/p7osorno/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/e8GNEr3.png" group-title="Chaitén;FM", Radio Chaitén (105.7 FM Chaitén)
 http://5.9.65.9:8114/stream/1/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/CstWVNR.jpg" group-title="Puerto Natales;FM", Faraónica (105.7 FM Puerto Natales)
-http://s3.free-shoutcast.com:18136/;
+https://stream.zenolive.com/6y4qb4bd41zuv
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/uRW6cEV.jpg" group-title="Lumaco;FM", Nativa FM (106.5 FM Lumaco)
 http://stream5.eltelon.com/nativa.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/HuV0NVG.png" group-title="Osorno;FM", Radio Bio Bio Osorno (106.5 FM Osorno)
@@ -649,18 +650,19 @@ https://unlimited3-cl.dps.live/biobioosorno/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/N1YRYZa.jpg" group-title="Antofagasta;FM", Radio Plus FM (106.9 FM Antofagasta)
 http://sonando.us.digitalproserver.com/fmplus_aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/miuqID4.jpg" group-title="Lo Barnechea;FM", Dixi (106.9 FM)
-http://192.99.150.234:9940
+http://sonic.portalfoxmix.cl:9940/stream/1/
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/Dlgn2o8.png" group-title="San Bernardo;FM", Radio Máxima (107.1 FM San Bernardo)
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/4gSydDP.jpg" group-title="Padre Las Casas;Temuco;FM", Radio Pelom (107.1 FM Padre Las Casas)
 http://192.99.18.164:9668/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/A13RlyW.jpg" group-title="Cunco;FM", Radio Urbana (107.1 FM Cunco)
-http://188.165.187.84:8003/stream?1556338857291
+https://acastream.us:16151/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/bNO2RIb.jpg" group-title="Maipú;FM", Chocolate (107.5 FM Maipú) 
-http://159.69.156.214:9312/;
+https://radiostreaming.cloudserverlatam.com/8074/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/GHZnUPc.jpg" group-title="Los Ángeles;FM", Radio Alas de Águila (107.5 FM Los Ángeles)
-http://37.187.250.76:9332/;
+http://stream.alasdeaguilas.cl:9332/stream/1/
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/pdPXXn8.png" group-title="Temuco;FM", Radio Creaciones (107.5 FM Temuco)
-http://188.165.187.84:8049/stream?type=.mp3?1458229740632.aac
+https://acastream.us:25807/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/leNG3kb.png" group-title="La Serena;FM", Radio Pinamar (107.9 FM La Serena)
 http://s02.midns.net:8034/stream/1/
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/UtzWY2D.jpg" group-title="Valparaíso;FM", Radio Ritoque (107.9 FM Valparaíso)
@@ -670,30 +672,30 @@ http://5.9.65.6:9966/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/FuPamVs.jpg" group-title="Santiago;AM", Radio UC (660 AM)
 http://146.155.190.111/;stream.mp3
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/FuPamVs.jpg" group-title="Santiago;AM", Santiago (Online) (690 AM)
-http://200.24.229.253:8290/;
+https://audio4.tustreaming.cl/8130/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/FuPamVs.jpg" group-title="Santiago;AM", Santiago (Tropical) (690 AM)
 http://audio.mohosting.cl:7032/stream
-#:-1, radio="true" tvg-logo="https://i.imgur.com/Wuwpvx7.png" group-title="La Serena;AM", La Serena (690 AM La Serena)
-#http://streaming.megaram.in:9330/;
+#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/Wuwpvx7.png" group-title="La Serena;AM", La Serena (820 AM La Serena)
+https://sonicpanel.mediostream.cl/8124/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/HNPTABT.jpg" group-title="Santiago;AM", Radio Colo Colo (880 AM)
 http://audio2.tustreaming.cl:7040/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/enxqWyI.png" group-title="Temuco;AM", Radio 920 AM (920 AM Temuco)
-http://188.165.187.84:8123/stream
+https://acastream.us:16146/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/SVJPjLy.jpg" group-title="Santiago;AM", Nuevo Mundo (930 AM)
 http://190.82.105.90:8012/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/S3F9AaW.jpg" group-title="Valdivia;AM", Radio Austral (970 AM Valdivia)
 http://stream5.eltelon.com:8000/austral-am.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/nniYqwq.png" group-title="Temuco;AM", La Frontera (1110 AM Temuco)
-http://104.131.43.160:8894/;
+http://157.245.89.117:8062/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/Cz1sKQK.jpg" group-title="Última Esperanza;AM", Radio Natales (1170 AM Última Esperanza)
 http://archi-us.digitalproserver.com/natales.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/uDSnOOD.jpg" group-title="Santiago;AM", Portales (1180 AM)
 http://s6.jcwebnew.com:8060/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/2mpRomf.jpg" group-title="Valdivia;AM", Radio Pilmaiquén (1250 AM Valdivia)
-http://198.15.77.50:9190/;
+https://streaming.chiloestreaming.com:10977/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/0Q30eFv.png" group-title="Porvenir;AM", Tierra del Fuego (1500 AM Porvenir)
 http://167.114.219.240:8088/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/ZhmcWaM.jpg" group-title="Talagante;AM", Manantial AM (1560 AM Talagante)
-http://s3.medionline.cl:8590/;?1556398827729
+https://sonic-cl.streaming-chile.com/8066/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/ri8pNro.jpg" group-title="Concepción;AM", Radio Llacolén (1600 AM Concepción)
 http://sonando.us.digitalproserver.com/radiollacolen.aac
