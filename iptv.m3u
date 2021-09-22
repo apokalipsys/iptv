@@ -1,21 +1,20 @@
 #EXTM3U
 
 #Nacionales
-#Telecanal no tiene señal online
-#la red
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kddnc0Z.jpg" group-title="Nacional", La Red
+https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eU8EzKPxxwk/W_daaXlf4FI/AAAAAAAAmfU/8PRBaU82Y4USPw-4FTuAQ_fWDDcTnYbpgCL0BGAYYCw/h66/2018-11-22.png" group-title="Nacional", TV+
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1527809091.png" group-title="Chileiptv" , UCV 3 
-http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1527809091.png" group-title="Nacional" , UCV
+https://unlimited2-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://estaticos.tvn.cl/skins/envivo/201709281730/gfx/icon-tvncl.png" group-title="Nacional", TVN
-https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
+https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/908334406280077313/lfVOtZWn_400x400.jpg" group-title="Nacional", Mega
-http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+https://unlimited2-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://estaticos.chilevision.cl/chv.libs/img/logo-chv-1.0.png" group-title="Nacional", CHV
-http://mi.chv.cl/playlist/stream.m3u8?s=hd
+https://unlimited1-cl-movistar.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png" group-title="Nacional", Canal 13
-http://c13-live-1.cdn.nedmedia.io/index.m3u8
+https://cl-canal13-13now-live.ned.media/live.m3u8?PlaylistM3UCL
 
 #Regionales
 #AP
@@ -123,6 +122,8 @@ http://cdnapi.kaltura.com/p/2359831/sp/0/playManifest/entryId/1_3jx9rpfo/format/
 #http://evo.eltelon.com:1935/live/maxima-fm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6XJwnD4.jpg" group-title="Metropolitana", Bío-Bío Chile TV
 https://unlimited2-cl.dps.live/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vtOP6HI.png" group-title="Metropolitana", Wapp
+https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8?PlaylistM3UCL
 
 #OH
 
