@@ -9,6 +9,8 @@ https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 https://unlimited2-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://estaticos.tvn.cl/skins/envivo/201709281730/gfx/icon-tvncl.png" group-title="Nacional", TVN
 https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LCIuZwq.png" group-title="Nacional", NTV
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/908334406280077313/lfVOtZWn_400x400.jpg" group-title="Nacional", Mega
 https://unlimited2-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://estaticos.chilevision.cl/chv.libs/img/logo-chv-1.0.png" group-title="Nacional", CHV
@@ -264,14 +266,38 @@ http://tls.cdnz.cl/iflexus/live/chunklist_w379583424.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O7JzBOk.png" group-title="Chile - Noticias", 24 Play
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-#-1 tvg-logo="https://lh3.googleusercontent.com/-JKWMHOkaYSs/XKqsVNLOSxI/AAAAAAAAn7U/s2wQnMDHd4w0Zoksd4eziWt3RwqJqGoKgCK8BGAs/s0/2019-04-07.png" group-title="Chile - Noticias", EMOL TV
-#https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8 
-#-1 tvg-logo="http://resource.t13.cl/img/t13-movil-b.png" group-title="Chile - Noticias", T13 Móvil
-#http://t13-movil-live.cdn.nedmedia.io/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eaIcfgV.png" group-title="Chile - Noticias", TVN - 24h
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GHTGGy4.png" group-title="Chile - Noticias", TVN - Reuters
+https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/itMRFXr.png" group-title="Chile - Noticias", TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AHUTz1h.png" group-title="Chile - Noticias"", TVN 24 Horas 2
+https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QBYF141.jpg" group-title="Chile - Noticias", CNN Chile
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ptGO7mF.png" group-title="Chile - Noticias", EMOL TV
+https://redirector.dps.live/hls/emoltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PIVZ9g8.png" group-title="Chile - Noticias", T13
+https://mdstrm.com/live-stream-playlist/5f32956afa1e1d747b8a30a3.m3u8
 #EXTINF:-1 tvg-logo="http://api.agamba.cl/tv/chile/img/nacionales/iconcdtv.png" group-title="Chile - Noticias", Cámara de Diputados
 http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OBzbEAY.png" group-title="Chile - Noticias", TV Senado
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vDkF34s.png" group-title="Chile - Noticias", Convencion Constitucional
+https://mdstrm.com/live-stream-playlist/60d1f10fdacfa008348d71d2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJzgvIZ.png" group-title="Chile - Noticias", Convencion Constitucional - Señal 2
+https://mdstrm.com/live-stream-playlist/60d476c14157440829d03cd7.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJzgvIZ.png" group-title="Chile - Noticias", Convencion Constitucional - Señal 3
+https://mdstrm.com/live-stream-playlist/60d475f88fc34c7abc188c68.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJzgvIZ.png" group-title="Chile - Noticias", Convencion Constitucional - Señal 4
+https://mdstrm.com/live-stream-playlist/60d47530e89f67082ee80ed0.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJzgvIZ.png" group-title="Chile - Noticias", Convencion Constitucional - Señal 5
+https://mdstrm.com/live-stream-playlist/60d474eeb5d7c30828d2a560.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJzgvIZ.png" group-title="Chile - Noticias", Convencion Constitucional - Señal 6
+https://mdstrm.com/live-stream-playlist/60d474bea654210826d3ffe3.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJzgvIZ.png" group-title="Chile - Noticias", Convencion Constitucional - Señal 7
+https://mdstrm.com/live-stream-playlist/60d47401e89f67082ee80ecd.m3u8?PlaylistM3UCL
 #-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15009529651.png" group-title="Chile - Noticias" , Ahora Noticias 
 #http://www.chileiptv.cl/emgn.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XFut5L.jpg" group-title="Chile - Noticias", La Tercera Tv
@@ -313,7 +339,7 @@ http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
 https://v2.tustreaming.cl/interradiotv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-68ZfaG3S-uE/Wn9pq4PFv0I/AAAAAAAAgxg/Vh064kD8_-sjhEBRqnbEQE9NnA6f-MwAQCK8BGAs/s289/2018-02-10.png" group-title="Chile - Miscelaneo", UesTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bl5ECPi.png" group-title="Chile - Miscelaneo", UesTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 #-1 tvg-logo="http://estaticos.tvn.cl/skins/envivo/201709281730/gfx/icon-tvnculto.png" group-title="Chile - Miscelaneo", TVN de Culto
 #http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
@@ -330,6 +356,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LpdJQQG.png" group-title="Chile - Miscelaneo", UOCT Santiago
 http://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oevZgbf.png" group-title="Chile - Miscelaneo", 13e
+https://unlimited2-cl-movistar.dps.live/13live2/13live2.smil/playlist.m3u8?PlaylistM3UCL
 
 #-1 tvg-logo="http://estaticos.tvn.cl/skins/envivo/201709281730/gfx/icon-tvnkids.png" group-title="Chile - Infantil", TVN Kids
 #https://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
@@ -340,7 +368,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CT3jYRm.png" group-title="Chile - Infantil", etc
 https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NxeQx17jc7E/Wn9lvKl4XyI/AAAAAAAAgwk/yg9OmGL8ZdoUeruk7i0dYYzmhDa4xOB8gCK8BGAs/s225/2018-02-10.png" group-title="Chile - Religión", Gracia TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N9FpKZU.png" group-title="Chile - Religión", Gracia TV 
 http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
 
 #Radios
@@ -392,6 +420,8 @@ http://sonando.us.digitalproserver.com/carnaval_vinadelmar.aac
 http://archi-us.digitalproserver.com/revelacion-puerto-cisnes.aac
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/PYkeYsj.jpg" group-title="Illapel;FM", Radio Juan Pablo II (90.3 FM Illapel)
 http://stream5.eltelon.com/juan-pablo-ii.aac
+#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/WclbM63.png" group-title="Curacaví;FM", Radio Lubna (90.3 FM Curacaví)
+https://sonicpanel.mediostream.cl/8056/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/uudoKgZ.png" group-title="Santiago;FM", Pudahuel (90.5 FM)
 https://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL_SC
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/UkD5p4E.png" group-title="Calama;FM", Radio Alegria del Transporte (90.7 FM Calama)
@@ -652,6 +682,10 @@ http://unlimited11-cl.dps.live/p7osorno/aac/icecast.audio
 http://5.9.65.9:8114/stream/1/;
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/CstWVNR.jpg" group-title="Puerto Natales;FM", Faraónica (105.7 FM Puerto Natales)
 https://stream.zenolive.com/6y4qb4bd41zuv
+#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/WxrOBsU.png" group-title="Curacaví;FM", Radio Puangue (105.9 FM Curacaví)
+https://srv6.sonicpanel.cl/8038/stream
+#EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/15Q5p2Q.png" group-title="Curacaví;FM", FM Music (106.3 FM Curacaví)
+https://sonicpanel.cloudstreaming.eu/9980/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/uRW6cEV.jpg" group-title="Lumaco;FM", Nativa FM (106.5 FM Lumaco)
 https://sonic01.zglobalhost.com/8030/stream
 #EXTINF:-1, radio="true" tvg-logo="https://i.imgur.com/HuV0NVG.png" group-title="Osorno;FM", Radio Bio Bio Osorno (106.5 FM Osorno)
